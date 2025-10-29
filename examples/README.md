@@ -48,3 +48,8 @@ python main.py --input examples/sample_training.txt
 运行示例后，会在 `output/` 目录生成：
 - `overview.md` - 知识总览（包含思维导图）
 - `cards/card_01.md` ~ `cards/card_0X.md` - 多张知识卡片
+
+**查看实际输出效果**：
+- 📄 [示例输出展示](./SAMPLE_OUTPUT.md) - 查看实际运行后生成的内容样例
+- 包含总览文档、知识卡片的完整示例
+- 展示在不同工具中的渲染效果
